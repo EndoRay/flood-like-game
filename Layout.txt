@@ -1,0 +1,42 @@
+This is the basic outline for how this game will work
+
+Main site
+					Runners!
+				------------------------
+        |  Home  |  Rooms  |  Shop  | How2Play | Profile | About/contact us/faq's? |
+--------------------------------------------------------------------------------------------
+|New!					|						   |
+|	      3 New Maps!		|		Welcome to Runners!		   |
+|	Tundra	 Maya	Atlantis	|						   |
+|					|     Work with your room to get through traps     |
+|  Try em with Private Mode for VIP's!	|	and make it to the end of the level	   |
+|---------------------------------------|		      to win!			   |
+|New!					|						   |
+|	      Room Sizes!		|		     VIP mode			   |
+|      R5     R10     R20     R100	|		Pay $5 a month and get		   |
+|					|    Private Mode    New rooms      Test maps!     |
+|	  Try em out with VIP!		|						   |
+--------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------
+|		VIP INFO		|		     New Maps!			   |
+|					|						   |
+|  Private Mode!			|	Tundra!					   |
+|    ‡ Play with friends with a 	|	  ‡ Go through this frozen wasteland	   |
+|      custom invite link!		|	    teeming with falling icicles.	   |
+|					|	    thin ice, and cold water below.	   |
+|  Rooms!				|	    Some say you can hear sleighbells.	   |
+|    ‡ Change the size of your		|						   |
+|      room to allow 5, 10, 20,		|	Maya!					   |
+|      or even 100 people!		|	  ‡ Snakes, poison, and traps Oh My!	   |
+|					|	    Navigate this forest to get to	   |
+|  Test Maps!				|	    the golden idol at the end!		   |
+|    ‡ Test maps that haven't 		|						   |
+|      come out yet!			|	Atlantis!				   |
+|					|	  ‡ Make your way to pockets of air	   |
+|  Only $5!				|	    to prevent yourself from drowning!	   |
+|    ‡ For 5 bucks a month it's		|	    Maybe there'll be some loot on the 	   |
+|      yours!				|	    way to Poseidon's Trident!		   |
+|					|						   |
+--------------------------------------------------------------------------------------------
