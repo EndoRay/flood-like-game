@@ -1,1 +1,1 @@
-gunicorn frontend.run:app --log-file -
+gunicorn frontend.run:app
