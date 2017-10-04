@@ -1,2 +1,1 @@
-gunicorn = gunicorn -w 3 run:app
-gaffer start
+gunicorn frontend.run:app --log-file -
