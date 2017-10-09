@@ -10,6 +10,3 @@ def test_homepage_shows():
     r = req.get('http://localhost:5000')
     assert 'Home' in r.text
 
-    
-def rooms():
-return render_template("templates/rooms.html")
