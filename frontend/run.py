@@ -8,7 +8,7 @@ def index():
     return render_template('index.html')
 
 
-@app.route("/rooms")
+@app.route("/")
 def rooms():
     return render_template("rooms.html")
 
