@@ -10,7 +10,7 @@ def index():
 
 @app.route ("/rooms")
 def rooms ():
-    return render_template("templates/rooms.html")
+    return render_template("rooms.html")
 
 
 if __name__ == '__main__':
